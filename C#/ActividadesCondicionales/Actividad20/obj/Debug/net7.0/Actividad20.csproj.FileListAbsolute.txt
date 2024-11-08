@@ -1,0 +1,15 @@
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\bin\Debug\net7.0\Actividad20.exe
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\bin\Debug\net7.0\Actividad20.deps.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\bin\Debug\net7.0\Actividad20.runtimeconfig.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\bin\Debug\net7.0\Actividad20.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\bin\Debug\net7.0\Actividad20.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\refint\Actividad20.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\ref\Actividad20.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad20\obj\Debug\net7.0\Actividad20.csproj.AssemblyReference.cache
