@@ -1,0 +1,14 @@
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\bin\Debug\net8.0\Actividad12.exe
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\bin\Debug\net8.0\Actividad12.deps.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\bin\Debug\net8.0\Actividad12.runtimeconfig.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\bin\Debug\net8.0\Actividad12.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\bin\Debug\net8.0\Actividad12.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\refint\Actividad12.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\Actividad12.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad12\obj\Debug\net8.0\ref\Actividad12.dll
