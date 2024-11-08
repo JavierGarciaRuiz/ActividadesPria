@@ -1,0 +1,15 @@
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.csproj.AssemblyReference.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\bin\Debug\net7.0\Actividad3.exe
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\bin\Debug\net7.0\Actividad3.deps.json
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\bin\Debug\net7.0\Actividad3.runtimeconfig.json
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\bin\Debug\net7.0\Actividad3.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\bin\Debug\net7.0\Actividad3.pdb
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\refint\Actividad3.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.pdb
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\Actividad3.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad3\obj\Debug\net7.0\ref\Actividad3.dll
