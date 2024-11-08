@@ -1,0 +1,15 @@
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\bin\Debug\net7.0\Actividad18.exe
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\bin\Debug\net7.0\Actividad18.deps.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\bin\Debug\net7.0\Actividad18.runtimeconfig.json
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\bin\Debug\net7.0\Actividad18.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\bin\Debug\net7.0\Actividad18.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.csproj.AssemblyReference.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\refint\Actividad18.dll
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.pdb
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\Actividad18.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesCondicionales\Actividad18\obj\Debug\net7.0\ref\Actividad18.dll
