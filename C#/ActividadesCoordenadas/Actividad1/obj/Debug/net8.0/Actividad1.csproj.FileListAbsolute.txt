@@ -1,0 +1,14 @@
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\bin\Debug\net8.0\Actividad1.exe
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\bin\Debug\net8.0\Actividad1.deps.json
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\bin\Debug\net8.0\Actividad1.runtimeconfig.json
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\bin\Debug\net8.0\Actividad1.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\bin\Debug\net8.0\Actividad1.pdb
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\refint\Actividad1.dll
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.pdb
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\Actividad1.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesCoordenadas\Actividad1\obj\Debug\net8.0\ref\Actividad1.dll
