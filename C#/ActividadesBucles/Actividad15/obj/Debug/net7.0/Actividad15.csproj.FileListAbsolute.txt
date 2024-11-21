@@ -1,0 +1,15 @@
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.csproj.AssemblyReference.cache
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesBucles\Actividad15\bin\Debug\net7.0\Actividad15.exe
+D:\C#\Actividades\ActividadesBucles\Actividad15\bin\Debug\net7.0\Actividad15.deps.json
+D:\C#\Actividades\ActividadesBucles\Actividad15\bin\Debug\net7.0\Actividad15.runtimeconfig.json
+D:\C#\Actividades\ActividadesBucles\Actividad15\bin\Debug\net7.0\Actividad15.dll
+D:\C#\Actividades\ActividadesBucles\Actividad15\bin\Debug\net7.0\Actividad15.pdb
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.dll
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\refint\Actividad15.dll
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.pdb
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\Actividad15.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesBucles\Actividad15\obj\Debug\net7.0\ref\Actividad15.dll
