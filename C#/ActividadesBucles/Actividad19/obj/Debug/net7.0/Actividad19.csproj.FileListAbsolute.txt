@@ -1,0 +1,15 @@
+D:\C#\Actividades\ActividadesBucles\Actividad19\bin\Debug\net7.0\Actividad19.exe
+D:\C#\Actividades\ActividadesBucles\Actividad19\bin\Debug\net7.0\Actividad19.deps.json
+D:\C#\Actividades\ActividadesBucles\Actividad19\bin\Debug\net7.0\Actividad19.runtimeconfig.json
+D:\C#\Actividades\ActividadesBucles\Actividad19\bin\Debug\net7.0\Actividad19.dll
+D:\C#\Actividades\ActividadesBucles\Actividad19\bin\Debug\net7.0\Actividad19.pdb
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.csproj.AssemblyReference.cache
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.dll
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\refint\Actividad19.dll
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.pdb
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\Actividad19.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesBucles\Actividad19\obj\Debug\net7.0\ref\Actividad19.dll
