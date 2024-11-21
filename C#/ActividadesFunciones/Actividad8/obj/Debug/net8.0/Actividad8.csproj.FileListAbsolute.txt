@@ -1,0 +1,14 @@
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.AssemblyInfoInputs.cache
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.AssemblyInfo.cs
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.csproj.CoreCompileInputs.cache
+D:\C#\Actividades\ActividadesFunciones\Actividad8\bin\Debug\net8.0\Actividad8.exe
+D:\C#\Actividades\ActividadesFunciones\Actividad8\bin\Debug\net8.0\Actividad8.deps.json
+D:\C#\Actividades\ActividadesFunciones\Actividad8\bin\Debug\net8.0\Actividad8.runtimeconfig.json
+D:\C#\Actividades\ActividadesFunciones\Actividad8\bin\Debug\net8.0\Actividad8.dll
+D:\C#\Actividades\ActividadesFunciones\Actividad8\bin\Debug\net8.0\Actividad8.pdb
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.dll
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\refint\Actividad8.dll
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.pdb
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\Actividad8.genruntimeconfig.cache
+D:\C#\Actividades\ActividadesFunciones\Actividad8\obj\Debug\net8.0\ref\Actividad8.dll
